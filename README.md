@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Rushikesh</h1><br>
 <p> I like to code in Python and I chose MySQL as structured query language and MongoDb as not only structured query language are both my favorite databases. <br>
   I'm excited to explore programming, web scraping, data science, and machine learning. </p>
-<h3 align="center">Enthusiastic about finding insights from data</h3>
+<h3 align="center">🔍 Enthusiastic about finding insights from data 🔎</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rushi21-kesh&label=Profile%20views&color=0e75b6&style=flat" alt="rushi21-kesh" /> </p><br>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rushi21-kesh&label=Profile%20views&color=0e75b6&style=flat" alt="rushi21-kesh" /> </p>
 
 - 🔭 I’m currently working on **Big Data**
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available [here](www.github.com/Rushi21-kesh)
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3><br>
 <p align="left">
 <a href="https://twitter.com/rushi88566855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rushi88566855" height="30" width="40" /></a> &nbsp
 <a href="https://linkedin.com/in/rushikesh-lavate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh-lavate" height="30" width="40" /></a>&nbsp
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/rushi_lavate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rushi_lavate" height="30" width="40" /></a>
 </p>
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3><br>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp
   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>&nbsp
