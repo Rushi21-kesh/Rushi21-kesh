@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [www.github.com/Rushi21-kesh](www.github.com/Rushi21-kesh)
+- 👨‍💻 All of my projects are available [here](www.github.com/Rushi21-kesh)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
