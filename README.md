@@ -17,20 +17,20 @@ Here are some ideas to get you started:
   I'm excited to explore programming, web scraping, data science, and machine learning. </p>
 <h3 align="center">Enthusiastic about finding insights from data</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushi21-kesh&label=Profile%20views&color=0e75b6&style=flat" alt="rushi21-kesh" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rushi21-kesh&label=Profile%20views&color=0e75b6&style=flat" alt="rushi21-kesh" /> </p><br>
 
 - 🔭 I’m currently working on **Big Data**
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on ***Python*
+- 👯 I’m looking to collaborate on **Python**
  
 - 🤔 I’m looking for help with **Learning Data Science**
 
-- ⚡ Fun fact: Wants to be a miner 
+- ⚡ Fun fact: **Wants to be a miner** 
 
 - 👨‍💻 All of my projects are available [here](www.github.com/Rushi21-kesh)
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rushi88566855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rushi88566855" height="30" width="40" /></a> &nbsp
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> &nbsp
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
-<br>
+<br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushi21-kesh&show_icons=true&locale=en&layout=compact" alt="rushi21-kesh" /></p>
 
 
