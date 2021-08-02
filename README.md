@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"> <img src="https://github.com/Rushi21-kesh/Rushi21-kesh/blob/main/banner.jpg" alt="rushi21-kesh" /> </p>
 <h1 align="center">Hi 👋, I'm Rushikesh</h1><br>
 <p> I like to code in Python and I chose MySQL as structured query language and MongoDb as not only structured query language are both my favorite databases. <br>
   I'm excited to explore programming, web scraping, data science, and machine learning. </p>
