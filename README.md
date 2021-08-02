@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rushi88566855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rushi88566855" height="30" width="40" /></a> &nbsp
-<a href="https://linkedin.com/in/rushikesh lavate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh-lavate" height="30" width="40" /></a>&nbsp
+<a href="https://linkedin.com/in/rushikesh-lavate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh-lavate" height="30" width="40" /></a>&nbsp
 <a href="https://stackoverflow.com/users/rushikesh lavate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rushikesh lavate" height="30" width="40" /></a>&nbsp
 <a href="https://kaggle.com/rushikesh lavate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rushikesh lavate" height="30" width="40" /></a>&nbsp
 <a href="https://instagram.com/r_u_s_h_i_21_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_u_s_h_i_21_10" height="30" width="40" /></a>&nbsp
